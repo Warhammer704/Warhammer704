@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Warhammer704
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning NextJs
-
-- 📫 How to reach me :
+- 👀 I’m a full stack Javascript Developer
+- 🌱 i'd love to learn game development in my free time . finding a team would be nice too. if you are intrested in game development or your an artist and loves to start making games you can reach me via email :
+  
 
 - celebrimor704@gmail.com
-- 00989198169771
 
 <!---
 Warhammer704/Warhammer704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
